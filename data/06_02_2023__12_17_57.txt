@@ -1,0 +1,10 @@
+/PlaxisRectangleGrid/data/20x20x20.xlsx	06.02.2023 12:17:59
+Sheet: x
+Points: 336	Success: 336	Errors: 0	
+
+
+/PlaxisRectangleGrid/data/20x20x20.xlsx	06.02.2023 12:17:59
+Sheet: y
+Points: 336	Success: 336	Errors: 0	
+
+

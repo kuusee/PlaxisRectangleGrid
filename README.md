@@ -17,9 +17,9 @@
     </a>
 </p>
 
-<p align=center>
+<p align="center">
     <a target="_blank" href="https://t.me/Imbestmanofplanet" title="Telegram">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        <img src="https://img.shields.io/badge/Telegram-Igor_Kuznetsov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a> 
 </p>
 
